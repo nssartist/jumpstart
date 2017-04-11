@@ -1,0 +1,53 @@
+*,
+*:before,
+*:after {
+    -o-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/*/// IMPORT FONTS ///*/
+/* Open Sans  (400,600,700) + Monoton */
+
+/*/// DEFAULT FONT SIZING ///*/
+html {
+    font-size: 62.5%;
+}
+
+/*/// MAIN/CUSTOM STYLING ///*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*/// CLEARFIX ///*/
+.clearfix:after {
+    content: "";
+    display: block;
+    clear: both;
+}
